@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+body{
+background-image: url("/SportsPortal/images/pexels-messina-photo-8170745 (2).jpg");	
+background-size:cover; background-attachment: fixed;
+
+
+	
+}
+.custom
+{
+	 color: #2a4856; text-shadow: 2px 1px white;;font-size: 40px;font: bold;
+}
+ul.container
+{
+	list-style-type:disc;
+	margin-left:20px;
+	/* background-image: url("/SportsPortal/images/pexels-messina-photo-8170745 (1).jpg"); */
+	background-size: cover;background-attachment: fixed;
+	list-style-image: url("/SportsPortal/images/icons8-sparkles-32.png");
+}
+li.style
+{
+	color:white;
+	font-size:xx-large;
+	list-style-position: outside;
+	font-weight: bold;
+	padding-bottom: 40px;
+	
+}
